@@ -3,15 +3,15 @@ A place to organize my learning each week and contribute to GitHub more
 
 ### December 28-January 1
 
-* []Work on Blog
+[]Work on Blog
 
-   *[x]Create blog homepage
+    *[x]Create blog homepage
   
-   *[]Create navigation between pages
+    *[]Create navigation between pages
   
-   *[]Revise hover effects of a elements
+    *[]Revise hover effects of a elements
    
-   *[]Add September page
+    *[]Add September page
   
 
 []Read about design patterns
