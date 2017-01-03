@@ -3,15 +3,15 @@ A place to organize my learning each week and contribute to GitHub more
 
 ### December 28-January 1
 
-[]Work on Blog
+[x/]Work on Blog
 
     *[x]Create blog homepage
   
-    *[]Create navigation between pages
+    *[x/]Create navigation between pages
   
-    *[]Revise hover effects of a elements
+    *[x]Revise hover effects of a elements
    
-    *[]Add September page
+    *[x]Add September page
   
 
 []Read about design patterns
@@ -21,5 +21,9 @@ A place to organize my learning each week and contribute to GitHub more
 [x]Get better at GitHub and contribute more to my GitHub
 
 []Get back to practicing using CodeWars
+
+### How'd I do?
+
+This was my first week I thought I'd try organizing my learning using Una Kravets's personal goals repository. The checklist was motivational and made me feel accomplished, and it kept me a little more on track. However, it being the week between Christmas and New Year's was probably not a good indicator of my usual work ethic. Hopefully I can keep it up and I look forward to seeing what I can accomplish on more "normal" weeks.
 
 
