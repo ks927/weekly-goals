@@ -12,6 +12,8 @@ A place to organize my learning each week and contribute to GitHub more
 
 []Get back to coding (code more blog less, but blog everyday)
 
+[]Add navigation to top of month pages
+
 
 
 ### How'd I do?
