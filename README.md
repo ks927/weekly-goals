@@ -1,22 +1,20 @@
 # Weekly-goals
 A place to organize my learning each week and contribute to GitHub more
 
-### Week of Jan 3-Jan 7
-[x]Recapture work ethic from before the holidays and refocus my sporadic learning
+### Week of Jan 9-Jan 15
 
-[x]Read about design patterns
+[]Upload to GitHub everyday
 
-[]Finish [node video tutorial](https://www.youtube.com/watch?v=BBOUfdUZIVo&index=17&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
+[]Do cardio everyday
 
-[x/]Get back to practicing using Code Wars
+[]Continue [node video tutorial](https://www.youtube.com/watch?v=BBOUfdUZIVo&index=17&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
 
-[x]Get back to coding (code more blog less, but blog everyday)
+[]CodeWars
 
-[]Add navigation to top of month pages
+[]Start Firehose Project
 
-
+[]Add navigation to top of month pages on blog
 
 ### How'd I do?
 
-The chaos of the holidays was finally over and my work and study habits were in need of some restoration. I'll give myself a bit of a pass because it was  a three-day weekend, but I definitely got back to coding as opposed to working so much on the blog. I learned the node tutorial and design patterns reading are going to be ongoing proccesses. There's just too much there to knock out in a sitting. Also, I continued grappling with the idea of a bootcamp. 
 
