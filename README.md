@@ -8,12 +8,13 @@ A place to organize my learning each week and contribute to GitHub more
 []Do cardio everyday
 
     [x]Monday
+    [x]Tuesday
 
 []Continue [node video tutorial](https://www.youtube.com/watch?v=BBOUfdUZIVo&index=17&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
 
 []CodeWars
 
-[]Start Firehose Project
+[]Start The FireHose Project
 
 []Add navigation to top of month pages on blog
 
