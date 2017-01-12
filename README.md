@@ -9,6 +9,7 @@ A place to organize my learning each week and contribute to GitHub more
 
     [x]Monday
     [x]Tuesday
+    [x]Wednesday
 
 []Continue [node video tutorial](https://www.youtube.com/watch?v=BBOUfdUZIVo&index=17&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
 
