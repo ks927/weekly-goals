@@ -17,7 +17,7 @@ A place to organize my learning each week and contribute to GitHub more
 
 []CodeWars
 
-[]Start The FireHose Project
+~~[]Start The FireHose Project~~ [x]Start The Odin Project
 
 []Add navigation to top of month pages on blog
 
