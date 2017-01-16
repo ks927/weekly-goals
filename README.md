@@ -13,9 +13,7 @@ A place to organize my learning each week and contribute to GitHub more
     []Thursday
     []Friday
 
-[]CodeWars
-
-[]Start The Odin Project
+[]Complete Web Development 101 course on TOP
 
 []Add navigation to top of month pages on blog
 
