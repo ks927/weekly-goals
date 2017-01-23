@@ -15,7 +15,7 @@ A place to organize my learning each week and contribute to GitHub more
 
 []Complete Web Development 101 course on TOP
 
-[]Add navigation to top of month pages on blog
+[]
 
 ### How'd I do?
 
