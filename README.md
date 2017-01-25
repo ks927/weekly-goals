@@ -7,8 +7,8 @@ A place to organize my learning each week and contribute to GitHub more
 
 []Do cardio everyday
 
-    []Monday
-    []Tuesday
+    [/]Monday
+    [x]Tuesday
     []Wednesday
     []Thursday
     []Friday
