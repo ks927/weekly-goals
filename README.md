@@ -11,7 +11,7 @@ A place to organize my learning each week and contribute to GitHub more
     [x]Tuesday
     [/]Wednesday
     [x]Thursday
-    []Friday
+    [x]Friday
 
 []Complete Web Development 101 course on TOP
 
