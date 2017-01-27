@@ -1,7 +1,7 @@
 # Weekly-goals
 A place to organize my learning each week and contribute to GitHub more
 
-### Week of Jan 9-Jan 15
+### Week of Jan 23-Jan 28
 
 []Upload to GitHub everyday
 
