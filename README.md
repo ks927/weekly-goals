@@ -1,21 +1,21 @@
 # Weekly-goals
 A place to organize my learning each week and contribute to GitHub more
 
-### Week of Jan 23-Jan 28
+### Week of Jan 30-Feb 04
 
 []Upload to GitHub everyday
 
 []Do cardio everyday
 
-    [/]Monday
-    [x]Tuesday
-    [/]Wednesday
-    [x]Thursday
-    [x]Friday
+    []Monday
+    []Tuesday
+    []Wednesday
+    []Thursday
+    []Friday
 
-[]Complete Web Development 101 course on TOP
+[]Complete Basic Ruby course on TOP
 
-[]
+[]Spend more time on TOP and less time on other things daily
 
 ### How'd I do?
 
