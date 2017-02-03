@@ -9,11 +9,11 @@ A place to organize my learning each week and contribute to GitHub more
 
     [x]Monday
     [x]Tuesday
-    []Wednesday
-    []Thursday
+    [x/]Wednesday
+    [x]Thursday
     []Friday
 
-[]Complete Basic Ruby course on TOP
+[x]Complete Basic Ruby course on TOP
 
 []Spend more time on TOP and less time on other things daily
 
