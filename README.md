@@ -3,15 +3,15 @@ A place to organize my learning each week and contribute to GitHub more
 
 ### Week of Jan 30-Feb 04
 
-[]Upload to GitHub everyday
+[x]Upload to GitHub everyday
 
-[]Do cardio everyday
+[x]Do cardio everyday
 
     [x]Monday
     [x]Tuesday
     [x/]Wednesday
     [x]Thursday
-    []Friday
+    [x]Friday
 
 [x]Complete Basic Ruby course on TOP
 
