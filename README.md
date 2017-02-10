@@ -10,7 +10,7 @@ A place to organize my learning each week and contribute to GitHub more
     [x]Monday
     [x]Tuesday
     []Wednesday
-    []Thursday
+    [x]Thursday
     []Friday
 
 []Complete Intermediate Ruby course on TOP
