@@ -1,19 +1,19 @@
 # Weekly-goals
 A place to organize my learning each week and contribute to GitHub more
 
-### Week of Jan 30-Feb 04
+### Week of Feb 06-Feb 10
 
-[x]Upload to GitHub everyday
+[]Upload to GitHub everyday
 
-[x]Do cardio everyday
+[]Do cardio everyday
 
     [x]Monday
     [x]Tuesday
-    [x/]Wednesday
+    []Wednesday
     [x]Thursday
-    [x]Friday
+    []Friday
 
-[x]Complete Basic Ruby course on TOP
+[]Complete Intermediate Ruby course on TOP
 
 []Spend more time on TOP and less time on other things daily
 
