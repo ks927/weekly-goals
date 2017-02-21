@@ -7,15 +7,15 @@ A place to organize my learning each week and contribute to GitHub more
 
 []Do cardio everyday
 
-    [x]Monday
-    [x]Tuesday
-    [/]Wednesday
-    [x]Thursday
+    []Monday
+    []Tuesday
+    []Wednesday
+    []Thursday
     []Friday
 
-[x]Complete Intermediate Ruby course on TOP
-
 []Complete Ruby on the Web course on TOP
+
+[]Complete Recursion Project on TOP
 
 []Spend more time on TOP and less time on other things daily
 
