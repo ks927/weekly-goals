@@ -9,13 +9,13 @@ A place to organize my learning each week and contribute to GitHub more
 
     []Monday
     []Tuesday
-    [x]Wednesday
-    [x]Thursday
+    []Wednesday
+    []Thursday
     []Friday
 
-[x]Complete Ruby on the Web course on TOP
-
 []Complete Recursion Project on TOP
+
+[]Complete Linked Lists Project on TOP
 
 []Spend more time on TOP and less time on other things daily
 
