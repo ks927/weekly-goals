@@ -9,11 +9,11 @@ A place to organize my learning each week and contribute to GitHub more
 
     []Monday
     [x]Tuesday
-    []Wednesday
+    [x]Wednesday
     []Thursday
     []Friday
 
-[]Complete Recursion Project on TOP
+[x]Complete Recursion Project on TOP
 
 []Complete Linked Lists Project on TOP
 
