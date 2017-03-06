@@ -1,21 +1,23 @@
 # Weekly-goals
 A place to organize my learning each week and contribute to GitHub more
 
-### Week of Feb 13-Feb 17
+### Week of March 6-March 10
 
 []Upload to GitHub everyday
 
 []Do cardio everyday
 
     []Monday
-    [x]Tuesday
-    [x]Wednesday
+    []Tuesday
+    []Wednesday
     []Thursday
     []Friday
 
-[x]Complete Recursion Project on TOP
-
 []Complete Linked Lists Project on TOP
+
+[]Complete Data Structures and Algorithms Project on TOP
+
+[]Get up to Ruby Testing Project
 
 []Spend more time on TOP and less time on other things daily
 
