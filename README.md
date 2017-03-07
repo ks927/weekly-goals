@@ -7,13 +7,13 @@ A place to organize my learning each week and contribute to GitHub more
 
 []Do cardio everyday
 
-    []Monday
-    []Tuesday
+    [x]Monday
+    [x]Tuesday
     []Wednesday
     []Thursday
     []Friday
 
-[]Complete Linked Lists Project on TOP
+[x]Complete Linked Lists Project on TOP
 
 []Complete Data Structures and Algorithms Project on TOP
 
