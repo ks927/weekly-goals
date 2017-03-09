@@ -5,6 +5,8 @@ A place to organize my learning each week and contribute to GitHub more
 
 []Upload to GitHub everyday
 
+[]Stick to healthy diet
+
 []Do cardio everyday
 
     [x]Monday
