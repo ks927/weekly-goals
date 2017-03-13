@@ -9,17 +9,15 @@ A place to organize my learning each week and contribute to GitHub more
 
 []Do cardio everyday
 
-    [x]Monday
-    [x]Tuesday
+    []Monday
+    []Tuesday
     []Wednesday
     []Thursday
     []Friday
 
-[x]Complete Linked Lists Project on TOP
-
 []Complete Data Structures and Algorithms Project on TOP
 
-[]Get up to Ruby Testing Project
+[]Complete First Ruby Testing Problem on TOP
 
 []Spend more time on TOP and less time on other things daily
 
