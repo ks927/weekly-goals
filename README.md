@@ -9,13 +9,13 @@ A place to organize my learning each week and contribute to GitHub more
 
 []Do cardio everyday
 
-    []Monday
+    [x]Monday
     []Tuesday
     []Wednesday
     []Thursday
     []Friday
 
-[]Complete Data Structures and Algorithms Project on TOP
+[x]Complete Data Structures and Algorithms Project on TOP
 
 []Complete First Ruby Testing Problem on TOP
 
