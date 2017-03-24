@@ -9,9 +9,9 @@ A place to organize my learning each week and contribute to GitHub more
 
 []Do cardio everyday
 
-    []Monday
-    []Tuesday
-    []Wednesday
+    [x]Monday
+    [x]Tuesday
+    [x]Wednesday
     []Thursday
     []Friday
 
