@@ -1,7 +1,7 @@
 # Weekly-goals
 A place to organize my learning each week and contribute to GitHub more
 
-### Week of March 20-March 24
+### Week of March 27-March 31
 
 []Upload to GitHub everyday
 
@@ -9,13 +9,15 @@ A place to organize my learning each week and contribute to GitHub more
 
 []Do cardio everyday
 
-    [x]Monday
-    [x]Tuesday
-    [x]Wednesday
+    []Monday
+    []Tuesday
+    []Wednesday
     []Thursday
     []Friday
 
-[]Comprehend and complete Testing Ruby project
+[]Complete Git lessons on TOP
+
+[]Begin building Chess Project on TOP
 
 []Spend more time on TOP and less time on other things daily
 
