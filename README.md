@@ -9,17 +9,17 @@ A place to organize my learning each week and contribute to GitHub more
 
 []Do cardio everyday
 
-    []Monday
-    []Tuesday
+    [x]Monday
+    [x]Tuesday
     []Wednesday
     []Thursday
     []Friday
 
-[]Complete Git lessons on TOP
+[x]Complete Git lessons on TOP
 
 []Work on Read Me's of projects
 
-[]Begin building Chess Project on TOP
+[]Begin Rails portion of Curriculum on TOP
 
 []Spend more time on TOP and less time on other things daily
 
