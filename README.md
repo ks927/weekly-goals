@@ -11,13 +11,13 @@ A place to organize my learning each week and contribute to GitHub more
 
     [x]Monday
     [x]Tuesday
-    []Wednesday
+    [x]Wednesday
     []Thursday
     []Friday
 
 [x]Complete Git lessons on TOP
 
-[]Work on Read Me's of projects
+[x]Work on Read Me's of projects
 
 []Begin Rails portion of Curriculum on TOP
 
