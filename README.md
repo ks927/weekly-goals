@@ -1,7 +1,7 @@
 # Weekly-goals
 A place to organize my learning each week and contribute to GitHub more
 
-### Week of April 3-April 7
+### Week of April 10-April 14
 
 []Upload to GitHub everyday
 
@@ -20,7 +20,7 @@ A place to organize my learning each week and contribute to GitHub more
 
 []Complete Sinatra Project
 
-[]Use Git best practices
+[]Get past Hartl Tutorial on TOP
 
 []Spend more time on TOP and less time on other things daily
 
