@@ -1,7 +1,7 @@
 # Weekly-goals
 A place to organize my learning each week and contribute to GitHub more
 
-### Week of April 17-April 21
+### Week of April 24-April 28
 
 []Upload to GitHub everyday
 
@@ -16,11 +16,11 @@ A place to organize my learning each week and contribute to GitHub more
     []Friday
 
 
-[]Work on Read Me's of projects
+[]Customize site more/Fill out more of portfolio
 
-[]Do something with Wordpress (personal site, blog, random site)
+[]Attend another meetup
 
-[]Complete Project: Let's Get Building on TOP
+[]Complete Project: Basic Routes, Views, and Controllers on TOP
 
 []Spend more time on TOP and less time on other things daily
 
