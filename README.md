@@ -16,13 +16,13 @@ A place to organize my learning each week and contribute to GitHub more
     []Friday
 
 
-[]Customize site more/Fill out more of portfolio
+[]Customize site more/Fill out more of portfolio/work on GitHub readmes
 
-[]Attend another meetup
+[]Attend another meetup if there are any
 
-[]Complete Project: Basic Routes, Views, and Controllers on TOP
+[]Complete Project:SQL
 
-[]Spend more time on TOP and less time on other things daily
+[]Complete Project: Building With Active Record
 
 ### How'd I do?
 
