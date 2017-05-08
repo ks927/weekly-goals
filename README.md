@@ -1,7 +1,7 @@
 # Weekly-goals
 A place to organize my learning each week and contribute to GitHub more
 
-### Week of April 24-April 28
+### Week of May 8-May 12
 
 []Upload to GitHub everyday
 
@@ -9,20 +9,18 @@ A place to organize my learning each week and contribute to GitHub more
 
 []Do cardio everyday
 
-    [x]Monday
-    [x]Tuesday
+    []Monday
+    []Tuesday
     []Wednesday
     []Thursday
     []Friday
 
 
-[]Customize site more/Fill out more of portfolio/work on GitHub readmes
+[]Start looking at TOP Getting Hired as Web Developer Section
 
-[]Attend another meetup if there are any
+[]Complete Project: Building with Active Record
 
-[]Complete Project:SQL
-
-[]Complete Project: Building With Active Record
+[]Complete Project: Forms
 
 ### How'd I do?
 
