@@ -9,14 +9,15 @@ A place to organize my learning each week and contribute to GitHub more
 
 []Do cardio everyday
 
-    []Monday
-    []Tuesday
-    []Wednesday
-    []Thursday
-    []Friday
+    [x]Monday
+    [x]Tuesday
+    [x]Wednesday
+    [x]Thursday
+    [x]Friday
 
+[x]Work on personal site/readmes/portfolio
 
-[]Start looking at TOP Getting Hired as Web Developer Section
+[x]Start looking at TOP Getting Hired as Web Developer Section
 
 []Complete Project: Building with Active Record
 
