@@ -5,9 +5,9 @@ A place to organize my learning each week and contribute to GitHub more
 
 []Upload to GitHub everyday
 
-[]Stick to healthy diet
+[]Stick to healthy, increased calorie diet
 
-[]Do cardio everyday
+[]Follow GZCL fitness plan everyday
 
     []Monday
     []Tuesday
