@@ -1,7 +1,7 @@
 # Weekly-goals
 A place to organize my learning each week and contribute to GitHub more
 
-### Week of May 8-May 12
+### Week of May 15-May 20
 
 []Upload to GitHub everyday
 
@@ -9,15 +9,15 @@ A place to organize my learning each week and contribute to GitHub more
 
 []Do cardio everyday
 
-    [x]Monday
-    [x]Tuesday
-    [x]Wednesday
-    [x]Thursday
-    [x]Friday
+    []Monday
+    []Tuesday
+    []Wednesday
+    []Thursday
+    []Friday
 
-[x]Work on personal site/readmes/portfolio
+[]Work on personal site/readmes/portfolio
 
-[x]Start looking at TOP Getting Hired as Web Developer Section
+[]Start looking at jobs/internship boards
 
 []Complete Project: Building with Active Record
 
