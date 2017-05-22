@@ -19,9 +19,9 @@ A place to organize my learning each week and contribute to GitHub more
 
 []Start looking at jobs/internship boards
 
-[]Complete Project: Building with Active Record
+[]Complete 3/5 assigned Hartl Tutorials
 
-[]Complete Project: Forms
+[]Create something in paired coding session
 
 ### How'd I do?
 
