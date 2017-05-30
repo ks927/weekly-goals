@@ -1,7 +1,7 @@
 # Weekly-goals
 A place to organize my learning each week and contribute to GitHub more
 
-### Week of May 15-May 20
+### Week of May 30-June 2
 
 []Upload to GitHub everyday
 
@@ -19,9 +19,9 @@ A place to organize my learning each week and contribute to GitHub more
 
 []Start looking at jobs/internship boards
 
-[]Complete 3/5 assigned Hartl Tutorials
+[]Complete 5/5 assigned Hartl Tutorials
 
-[]Create something in paired coding session
+[]Begin Project 2: Members Only!
 
 ### How'd I do?
 
