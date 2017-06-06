@@ -23,5 +23,7 @@ A place to organize my learning each week and contribute to GitHub more
 
 []Get up to Private Events project
 
+[]Do a leetcode problem every day
+
 ### How'd I do?
 
