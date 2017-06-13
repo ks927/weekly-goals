@@ -19,9 +19,9 @@ A place to organize my learning each week and contribute to GitHub more
 
 []Start looking at jobs/internship boards/Philly startups
 
-[]Complete Members Only
+[]Write another blog post
 
-[]Get up to Private Events project
+[]Complete Private Events
 
 []Do a leetcode problem every day
 
