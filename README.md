@@ -1,7 +1,7 @@
 # Weekly-goals
 A place to organize my learning each week and contribute to GitHub more
 
-### Week of May 30-June 2
+### Week of June 5-June 9
 
 []Upload to GitHub everyday
 
@@ -17,11 +17,13 @@ A place to organize my learning each week and contribute to GitHub more
 
 []Work on personal site/readmes/portfolio
 
-[]Start looking at jobs/internship boards
+[]Start looking at jobs/internship boards/Philly startups
 
-[]Complete 5/5 assigned Hartl Tutorials
+[]Complete Members Only
 
-[]Begin Project 2: Members Only!
+[]Get up to Private Events project
+
+[]Do a leetcode problem every day
 
 ### How'd I do?
 
