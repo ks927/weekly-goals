@@ -1,7 +1,7 @@
 # Weekly-goals
 A place to organize my learning each week and contribute to GitHub more
 
-### Week of June 12-June 16
+### Week of June 19-June 23
 
 []Upload to GitHub everyday
 
@@ -24,6 +24,8 @@ A place to organize my learning each week and contribute to GitHub more
 []Complete Private Events
 
 []Do a leetcode problem every day
+
+[]Go to Philly.rb meetup
 
 ### How'd I do?
 
