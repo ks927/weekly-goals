@@ -13,7 +13,6 @@ A place to organize my learning each week and contribute to GitHub more
     []Tuesday
     []Wednesday
     []Thursday
-    []Friday
 
 []Work on personal site/readmes/portfolio
 
