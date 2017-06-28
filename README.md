@@ -9,20 +9,20 @@ A place to organize my learning each week and contribute to GitHub more
 
 []Follow GZCL fitness plan everyday
 
-    []Monday
+    [x]Monday
     []Tuesday
-    []Wednesday
+    [x]Wednesday
     []Thursday
 
 []Work on personal site/readmes/portfolio
 
 []Apply to first company
 
-[]Write another blog post
+[x]Write another blog post
 
-[]Do a leetcode problem every day
+[]Do more leetcode problems
 
-[]Go to Software as Craft meetup
+[x]Go to Software as Craft meetup
 
 ### How'd I do?
 
