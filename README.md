@@ -12,11 +12,11 @@ A place to organize my learning each week and contribute to GitHub more
     [x]Monday
     []Tuesday
     [x]Wednesday
-    []Thursday
+    [x]Thursday
 
 []Work on personal site/readmes/portfolio
 
-[]Apply to first company
+[x]Apply to first company
 
 [x]Write another blog post
 
