@@ -17,7 +17,7 @@ A place to organize my learning each week and contribute to GitHub more
 
 [x]Apply to more companies
 
-[]Do more leetcode problems
+[]Ruby interview questions
 
 [x]Complete Hartl Tutorial
 
