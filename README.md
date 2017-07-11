@@ -1,7 +1,7 @@
 # Weekly-goals
 A place to organize my learning each week and contribute to GitHub more
 
-### Week of July 5-July 7
+### Week of July 10-July 14
 
 []Upload to GitHub everyday
 
@@ -9,17 +9,19 @@ A place to organize my learning each week and contribute to GitHub more
 
 []Follow GZCL fitness plan everyday during shortened week
 
+    []Monday
+    []Tuesday
     []Wednesday
     []Thursday
     []Friday
 
 []Work on personal site/readmes/portfolio
 
-[x]Apply to more companies
+[]Apply to more companies
 
 []Ruby interview questions
 
-[x]Complete Hartl Tutorial
+[]Complete Flight Booker project
 
 ### How'd I do?
 
