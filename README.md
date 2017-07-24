@@ -15,13 +15,17 @@ A place to organize my learning each week and contribute to GitHub more
     []Thursday
     []Friday
 
-[]Complete Flight Booker project
-
 []Work on personal site/readmes/portfolio
 
-[]Write Cover Letter/Apply to more companies
+[]Write Cover Letters/Apply to more companies
 
 []Ruby interview questions
+
+[]Begin API project on TOP
+
+[]Write blog post for Flight Booker
+
+[]Begin Test Suite for Flight Booker
 
 ### How'd I do?
 
