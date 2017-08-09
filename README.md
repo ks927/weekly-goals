@@ -1,7 +1,7 @@
 # Weekly-goals
 A place to organize my learning each week and contribute to GitHub more
 
-### Week of July 17-July 21
+### Week of July 31-August 4
 
 []Upload to GitHub everyday
 
@@ -17,15 +17,15 @@ A place to organize my learning each week and contribute to GitHub more
 
 []Work on personal site/readmes/portfolio
 
-[]Write Cover Letters/Apply to more companies
+[]Keep applying to companies
 
-[]Ruby interview questions
+[]Continue Coderust questions
 
-[]Begin API project on TOP
+[]Attempt to complete API project
 
 []Write blog post for Flight Booker
 
-[]Begin Test Suite for Flight Booker
+[]Expand Test Suite for Flight Booker
 
 ### How'd I do?
 
