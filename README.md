@@ -1,15 +1,12 @@
 # Weekly-goals
 A place to organize my learning each week and contribute to GitHub more
 
-### Week of July 31-August 4
+### Week of August 7-August 11
 
 []Upload to GitHub everyday
 
-[]Stick to healthy, increased calorie diet
-
 []Follow GZCL fitness plan everyday during shortened week
 
-    []Monday
     []Tuesday
     []Wednesday
     []Thursday
@@ -21,11 +18,11 @@ A place to organize my learning each week and contribute to GitHub more
 
 []Continue Coderust questions
 
-[]Attempt to complete API project
+[]Get most of the way done Facebook Clone
+
+[]Continue test suite while creating Facebook
 
 []Write blog post for Flight Booker
-
-[]Expand Test Suite for Flight Booker
 
 ### How'd I do?
 
