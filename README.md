@@ -1,28 +1,21 @@
 # Weekly-goals
 A place to organize my learning each week and contribute to GitHub more
 
-### Week of August 7-August 11
+### Week of August 21-August 25
 
-[]Upload to GitHub everyday
+[]Keep up with BBG Fitness plan and lifting
 
-[]Follow GZCL fitness plan everyday during shortened week
-
-    []Tuesday
+    [x]Monday
+    [x]Tuesday
     []Wednesday
     []Thursday
     []Friday
 
-[]Work on personal site/readmes/portfolio
+[]Continue Coderust questions/DS&A youtube videos
 
-[]Keep applying to companies
-
-[]Continue Coderust questions
-
-[]Get most of the way done Facebook Clone
+[]Finish all features of Facebook clone
 
 []Continue test suite while creating Facebook
-
-[]Write blog post for Flight Booker
 
 ### How'd I do?
 
