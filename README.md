@@ -1,23 +1,25 @@
 # Weekly-goals
 A place to organize my learning each week and contribute to GitHub more
 
-### Week of September 18-September 22
+### Week of October 2-October 6
 
 []Keep up with BBG Fitness plan and lifting
 
-    [x]Monday
-    [x]Tuesday
-    [x]Wednesday
+    []Monday
+    []Tuesday
+    []Wednesday
     []Thursday
     []Friday
 
-[x]Complete CS50 week 3
+[]Complete CS50 week 4
 
-[]Figure out AJAX for fbook project
+[]Watch CS50 week 5 lecture
 
-[x]Update personal site
+[]Fix comment AJAX on facebook project
 
-[x]Begin applying to jobs again
+[]Start new section on TOP
+
+[]Apply to 5 jobs
 
 ### How'd I do?
 
