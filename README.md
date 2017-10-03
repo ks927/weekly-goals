@@ -17,7 +17,7 @@ A place to organize my learning each week and contribute to GitHub more
 
 []Fix comment AJAX on facebook project
 
-[]Start new section on TOP
+[]Update old portfolio projects
 
 []Apply to 5 jobs
 
