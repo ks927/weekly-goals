@@ -1,7 +1,7 @@
 # Weekly-goals
 A place to organize my learning each week and contribute to GitHub more
 
-### Week of October 16-October 20
+### Week of October 23-October 27
 
 []Keep up with BBG Fitness plan and lifting
 
@@ -11,15 +11,15 @@ A place to organize my learning each week and contribute to GitHub more
     []Thursday
     []Friday
 
-[]Watch CS50 week 6 lecture
+[]Watch CS50 week 8 lecture
 
-[]Watch CS50 week 7 lecture
+[]Complete CS50 pset6
 
-[]Dive deeper into Wordpress
+[]Continue converting blog to Wordpress
 
-[]Convert blog to Wordpress
+[]Apply to at least 5 jobs
 
-[]Apply to 5 jobs
+[]Complete 3 code wars problems
 
 ### How'd I do?
 
