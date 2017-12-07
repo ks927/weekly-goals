@@ -1,25 +1,18 @@
 # Weekly-goals
 A place to organize my learning each week and contribute to GitHub more
 
-### Week of October 16-October 20
+### Week of December 3-December 8
 
-[]Keep up with BBG Fitness plan and lifting
+Learn as much React as possible
 
-    []Monday
-    []Tuesday
-    []Wednesday
-    []Thursday
-    []Friday
+[] [React-boilerplate](https://github.com/react-boilerplate/react-boilerplate/blob/master/docs/general/introduction.md)
 
-[]Watch CS50 week 6 lecture
+[] Redux
 
-[]Watch CS50 week 7 lecture
+[] React Router
 
-[]Dive deeper into Wordpress
+[]
 
-[]Convert blog to Wordpress
-
-[]Apply to 5 jobs
 
 ### How'd I do?
 
