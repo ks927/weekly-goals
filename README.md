@@ -7,7 +7,7 @@ Learn as much React as possible
 
 [] [React-boilerplate](https://github.com/react-boilerplate/react-boilerplate/blob/master/docs/general/introduction.md)
 
-[] Redux
+[] [Redux](https://egghead.io/courses/getting-started-with-redux)
 
 [] React Router
 
